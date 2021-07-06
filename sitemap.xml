@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
     <url>
-        <loc>/contact-us.html</loc>
+        <loc>/contact-us</loc>
     </url>
     <url>
-        <loc>/faq.html</loc>
+        <loc>/faq</loc>
     </url>
     <url>
-        <loc>/gallery.html</loc>
+        <loc>/gallery</loc>
     </url>
     <url>
-        <loc>/index.html</loc>
+        <loc>/index</loc>
     </url>
     <url>
-        <loc>/reviews.html</loc>
+        <loc>/reviews</loc>
     </url>
     <url>
-        <loc>/services.html</loc>
+        <loc>/services</loc>
     </url>
     <url>
-        <loc>/sponsors.html</loc>
+        <loc>/sponsors</loc>
     </url>
     <url>
-        <loc>/team.html</loc>
+        <loc>/team</loc>
     </url>
 </urlset>
